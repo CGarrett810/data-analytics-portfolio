@@ -1,0 +1,11 @@
+order_id,order_date,region,category,sales,customer_id
+1001,1/5/2025,West,Furniture,250,C001
+1002,1/12/2025,west,Furniture,300,C002
+1003,2/1/2025,EAST,Technology,450.5,C003
+1003,2/1/2025,EAST,Technology,450.5,C003
+1004,2/15/2025,South,Office Supplies,120,C004
+1005,,South,office supplies,,C005
+1006,3/3/2025,North ,Furniture,500,C006
+1007,3/10/2025,,Technology,700,C007
+1008,3/15/2025,West,,200,C008
+1009,3/20/2025,EAST,Office Supplies,150,C009
