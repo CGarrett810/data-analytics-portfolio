@@ -8,7 +8,8 @@ Identify sales patterns across regions and product categories and provide action
 
 ## Tools Used
 - Python (pandas)
-- SQL
+- pandas
+- EDA
 - Excel (initial review)
 
 ## Data Cleaning
