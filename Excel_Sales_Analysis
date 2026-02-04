@@ -1,0 +1,19 @@
+# Excel Portfolio Project – Sales Analysis
+
+This project analyzes sales performance across regions, product categories, and time using Excel.
+
+**Tools Used:** Excel (Pivot Tables, Charts, Formulas)
+
+**Business Questions:**
+1. Which region generates the highest total sales?
+2. Which product category is the most profitable?
+3. How do sales trend over time?
+
+**Key Insights:**
+- The East region leads in total sales.
+- Furniture products are most profitable.
+- Sales fluctuate day to day, showing short-term trends.
+
+**Notes:** Dataset represents one month of sales activity.
+
+
