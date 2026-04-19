@@ -10,7 +10,10 @@ I am a data analyst with a Google Data Analytics Certificate and strong skills i
 - Data storytelling and business analysis
 
 ## Projects
-### 🔹 Sales Performance Analysis
-- Cleaned and analyzed messy sales data using Python and SQL
-- Identified top-performing regions and product categories
-- Delivered data-driven recommendations for underperforming segments
+
+- [SQL E-commerce Analysis](https://github.com/CGarrett810/SQL_Ecommerce_Analysis_Project)
+- Analyzed revenue, product performance, and customer behavior using BigQuery.
+- [Excel Sales Dashboard](https://github.com/CGarrett810/Excel_Sales-Performance-Analysis)
+-  Built dashboards to track sales performance and trends. 
+- [Python Data Analysis](https://github.com/CGarrett810/Pyython_Data_Analysis_Project)
+- Python project analyzing data to clean, explore, and generate insights using pandas and Jupyter Notebook.
